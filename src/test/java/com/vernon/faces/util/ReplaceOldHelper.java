@@ -1,6 +1,7 @@
-package com.dianziq.faces;
+package com.vernon.faces.util;
 
-import com.dianziq.faces.util.Emoji;
+import com.vernon.faces.EmojiData;
+import com.vernon.faces.util.Emoji;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;

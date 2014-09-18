@@ -1,4 +1,4 @@
-package com.dianziq.faces.util;
+package com.vernon.faces.util;
 
 import java.io.UnsupportedEncodingException;
 

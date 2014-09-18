@@ -1,4 +1,6 @@
-package com.dianziq.faces;
+package com.vernon.faces.util;
+
+import com.vernon.faces.EmojiStr2ImgHelper;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,7 +1,7 @@
-package com.dianziq.faces;
+package com.vernon.faces;
 
-import com.dianziq.faces.util.Emoji;
-import com.dianziq.faces.util.StringUtils;
+import com.vernon.faces.util.Emoji;
+import com.vernon.faces.util.StringUtils;
 
 import java.util.ArrayList;
 import java.util.HashMap;

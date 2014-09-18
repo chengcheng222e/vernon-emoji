@@ -1,5 +1,7 @@
-package com.dianziq.faces;
+package com.vernon.faces.util;
 
+import com.vernon.faces.EmojiHelper;
+import com.vernon.faces.EmojiStr2ImgHelper;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;

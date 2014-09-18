@@ -1,6 +1,6 @@
-package com.dianziq.faces;
+package com.vernon.faces;
 
-import com.dianziq.faces.util.Emoji;
+import com.vernon.faces.util.Emoji;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

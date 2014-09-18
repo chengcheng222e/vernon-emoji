@@ -1,6 +1,4 @@
-package com.dianziq.faces.util;
-
-import java.io.UnsupportedEncodingException;
+package com.vernon.faces.util;
 
 public class HexConver {
     /**

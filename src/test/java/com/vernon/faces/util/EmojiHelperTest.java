@@ -1,5 +1,6 @@
-package com.dianziq.faces;
+package com.vernon.faces.util;
 
+import com.vernon.faces.EmojiHelper;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

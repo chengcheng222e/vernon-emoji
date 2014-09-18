@@ -1,4 +1,4 @@
-package com.dianziq.faces;
+package com.vernon.faces;
 
 /**
  * emoji表情帮助类
